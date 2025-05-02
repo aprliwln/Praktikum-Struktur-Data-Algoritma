@@ -1,0 +1,10 @@
+Little Women,100,107000,LIT01
+Pride and Prejudice,50,87000,PRI02
+Harry Potter,35,135000,HAR03
+Anne of Green Gables,40,142000,ANN04
+The Chronicles of Narnia,27,55000,CHR05
+The Lightning Thief,89,92000,LIG06
+Berani Tidak Disukai,46,73500,BER07
+Bicara Itu Ada Seninya,95,57600,BIC08
+Filosofi Teras,63,79000,FIL09
+Laut Bercerita,81,86250,LAU10
