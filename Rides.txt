@@ -1,0 +1,6 @@
+001 | Carousel | 100 | 20000 | 5.0
+002 | Roller Coaster | 57 | 40000 | 4.8
+003 | Haunted House | 27 | 25000 | 3.9
+004 | Swing Ride | 42 | 35000 | 4.5
+005 | Bumper Cars | 67 | 30000 | 4.3
+006 | Drop Tower | 23 | 30000 | 4.0

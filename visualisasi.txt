@@ -1,0 +1,22 @@
+                     
+                       [Entrance] (ID 0)
+                         /     \
+                     (3)/       \(8)
+                       /         \
+     [Caraousel] (ID 1)         [Bumper Cars] (ID 5)
+            |                         
+          (7)                       
+            |                         
+     [Swing Ride] (ID 4)   
+
+      (Tidak terhubung)
+          [Roller Coaster] (ID 2)
+                |
+              (5)
+                |
+      [Haunted House] (ID 3)
+                |
+              (7)
+                |
+       [Drop Tower] (ID 6)
+      
